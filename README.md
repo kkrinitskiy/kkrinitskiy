@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, Hibernate**
 
-- 📫 How to reach me **kkrinitskiy@internet.ru**
+- 📫 mail **kkrinitskiy@internet.ru**
+- ✈️ tg @kkosten
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">telegram @kkosten
