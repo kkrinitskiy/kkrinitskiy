@@ -2,12 +2,13 @@
 <h3 align="center">Backend Java developer</h3>
 
 <h3 align="left">I'm practice and getting better in:</h3>
-- 🌱 **Java, Spring, Spring Boot, Hibernate**
-- 📚 **SQL, PotgreSQL, MySQL**
-- 🌆 **Vue.js, Nuxt**
-- ⚙️ **Postman, Junit, Mokito**
-- 🕸️ **Nginx**
-- 💻 **gnome-terminal, linux**
+<p align="left">🌱 Java, Spring, Spring Boot, Hibernate</p>
+<p align="left">📚 SQL, PotgreSQL, MySQL</p>
+<p align="left">🌆 Vue.js, Nuxt</p>
+<p align="left">⚙️ Postman, Junit, Mokito</p>
+<p align="left">🕸️ Nginx</p>
+<p align="left">💻 gnome-terminal, linux</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">📫 mail    kkrinitskiy@internet.ru</p>
 <p align="left">✈️ tg    @kkosten</p>
